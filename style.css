@@ -1,0 +1,101 @@
+#githubIcon{
+  color: rgb(102,43,129);
+}
+
+#gmailIcon{
+  color: rgb(255,0,0);	
+}
+
+.block{
+  background-color:black;
+  opacity:.8;
+  padding:10px;  
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:auto;
+  margin-bottom:auto;
+  border-radius:10px;	
+}
+
+.nav-pills{
+  font-size:1.7em;
+  background-color:black;	
+  margin-bottom:10%;
+}
+body {
+  background-color:white;	
+  font-family:Lobster;
+  color:white;
+}
+
+h1{
+  padding : 0;
+  margin-top:0px;   
+  font-size:5.0em;
+  padding-top:0;
+}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.7em;
+}
+
+.pageOne{
+  background:url("images/portfolio.jpg");	
+  background-size:cover;
+  height:800px; 
+  padding-bottom:10%;
+}	
+
+.pageTwo{
+  background:url("images/portfolio_page2.jpg");
+  background-size:cover;
+  height:800px; 
+  padding-top: 5%;
+	
+}	
+.pageThree{
+  background:url("images/portfolio_page3.jpg");
+  background-size:cover;
+  padding-top: 5%;
+  padding-bottom: 5%;
+	
+}
+.pageFour{
+  background:url("images/portfolio_page4.jpg");
+  background-size:cover;
+  padding-top: 5%;
+ /* padding-bottom: 5%; */
+	
+}
+
+p{
+  font-size:2.2em;
+}.pItems{
+	height: 250px;
+}
+.footer p {
+	font-size:15px;
+}
+
+.me{
+	height:300px;
+	margin:auto;
+}
+.footer{
+  background-color:black;
+  
+}
+
+.paddingBTN{
+
+	width:200px;
+	margin-bottom:25px;
+}
+
+.paddingTop{
+  padding-top: 2%;
+  padding-bottom:2%;
+}
