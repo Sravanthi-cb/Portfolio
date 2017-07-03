@@ -1,8 +1,8 @@
-#githubIcon{
+.githubIcon{
   color: rgb(102,43,129);
 }
 
-#gmailIcon{
+.gmailIcon{
   color: rgb(255,0,0);	
 }
 
@@ -49,13 +49,13 @@ h1{
   padding-bottom:10%;
 }	
 
-.pageTwo{
+.pageTwo {
   background:url("images/portfolio_page2.jpg");
   background-size:cover;
   height:800px; 
   padding-top: 5%;
-	
-}	
+  color: black;
+ }	
 .pageThree{
   background:url("images/portfolio_page3.jpg");
   background-size:cover;
